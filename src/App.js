@@ -87,6 +87,9 @@ function App() {
       <button style={{ padding: 12, width: "200px" }} onClick={() => {}}>
         Save Update
       </button>
+      <button style={{ padding: 12, width: "200px" }} onClick={() => {}}>
+        Save Update
+      </button>
     </div>
   );
 }
